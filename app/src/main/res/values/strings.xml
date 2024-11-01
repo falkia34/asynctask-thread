@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Thread</string>
+    <string name="edittext_base">Enter base</string>
+    <string name="edittext_exponent">Enter exponent</string>
+    <string name="btn_calculate_power">Calculate Power</string>
+    <string name="text_result_title">Result: </string>
+</resources>
